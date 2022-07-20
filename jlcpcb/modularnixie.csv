@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+"100n","C1","Capacitor_SMD:C_0603_1608Metric","C14663"
+"MMBT5551","Q1,Q2,Q3,Q4,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19","Package_TO_SOT_SMD:SOT-23","C2145"
+"22k","R1,R2,R3,R4,R9,R10,R11,R12,R13","Resistor_SMD:R_0603_1608Metric","C31850"
