@@ -1741,7 +1741,7 @@
     (uuid 7bc13ee4-2194-461b-9242-0d96ebba241b)
     (property "Reference" "U1" (id 0) (at 68.58 134.62 90))
     (property "Value" "74HC595" (id 1) (at 68.58 137.16 90))
-    (property "Footprint" "Package_SO:SOP-16_3.9x9.9mm_P1.27mm" (id 2) (at 69.85 137.16 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 69.85 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" (id 3) (at 69.85 137.16 0)
@@ -2476,7 +2476,7 @@
       (reference "R31") (unit 1) (value "~") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
     )
     (path "/7bc13ee4-2194-461b-9242-0d96ebba241b"
-      (reference "U1") (unit 1) (value "74HC595") (footprint "Package_SO:SOP-16_3.9x9.9mm_P1.27mm")
+      (reference "U1") (unit 1) (value "74HC595") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/fc12372f-6e31-40f9-8043-b00b861f0171"
       (reference "V1") (unit 1) (value "CD71") (footprint "Ken:CD71")
